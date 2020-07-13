@@ -2,6 +2,8 @@
 
 Deep Learning architectures based in Transformers ([Vaswani et al., 2017, Attention is all you need](https://arxiv.org/abs/1706.03762)) have demonstrated state of the art results in Natural Language Processing (NLP) and are quickly jumping to other fields ([DEtection TRansformer](https://github.com/facebookresearch/detr)). This notebook aims to demonstrate the power and easiness of use of the [HuggingFace Pipelines](https://huggingface.co/transformers/main_classes/pipelines.html), which can be quickly deployed to achieve outstanding results in several NLP tasks, including Sentiment Classification, Text Generation, Summarization and more.
 
+![question_answering](https://user-images.githubusercontent.com/17023476/87296581-43228480-c507-11ea-95fd-1ccb90f287e1.gif)
+
 ## Dependencies
 
 Running the application can be done following the instructions above:
