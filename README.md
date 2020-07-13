@@ -24,7 +24,7 @@ Running the application can be done following the instructions above:
     
 ## Use
 
-To run the notebook, with the environment activated (see [Dependencies](#Dependencies) section), create an IPyKernel running this instruction:
+To run the notebooks, with the environment activated (see [Dependencies](#Dependencies) section), create an IPyKernel running this instruction:
 
 ```python -m ipykernel install --user --name=myenv```
 
@@ -33,3 +33,5 @@ Check if your kernel was created by listing them:
 ```jupyter kernelspec list```
 
 Finally, inside the notebook, and from a base environment where *Jupyter* is installed, select your kernel to make all packages needed for the project ready to import.
+
+The *NLP_Transformers_Pipelines* implements several NLP Pipelines to experiment with. The *NLP_App*, on the other hand, provides small GUI's for the user to explore the Transformers capabilities.
